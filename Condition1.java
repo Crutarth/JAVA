@@ -1,3 +1,4 @@
+// lecture: 2.1 - Conditional Statements
 // write a program to check number is odd or even.
 
 import java.util.*;

@@ -6,7 +6,7 @@ import java.util.*;
 public class Arrays {
     public static void main(String[] args) {
         int[] marks = new int[3]; // declaration and instantiation of array
-        marks[0] = 96; // initializing array
+        marks[0] = 96; // initializing array (arrayname[index] = value)
         marks[1] = 87;  
         marks[2] = 89;
 
